@@ -29,6 +29,26 @@
 			path = Fin;
 			sourceTree = "<group>";
 		};
+		E1C84E6F2D11AA5200735952 /* Utilities */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		E1C84E742D11ABFF00735952 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E1C84E832D11AD6C00735952 /* ViewModels */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		E1C84E962D11AE4000735952 /* Models */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Models;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +65,10 @@
 		E1C84E222D11A7EE00735952 = {
 			isa = PBXGroup;
 			children = (
+				E1C84E962D11AE4000735952 /* Models */,
+				E1C84E832D11AD6C00735952 /* ViewModels */,
+				E1C84E742D11ABFF00735952 /* Views */,
+				E1C84E6F2D11AA5200735952 /* Utilities */,
 				E1C84E2D2D11A7EE00735952 /* Fin */,
 				E1C84E2C2D11A7EE00735952 /* Products */,
 			);
@@ -75,6 +99,10 @@
 			);
 			fileSystemSynchronizedGroups = (
 				E1C84E2D2D11A7EE00735952 /* Fin */,
+				E1C84E6F2D11AA5200735952 /* Utilities */,
+				E1C84E742D11ABFF00735952 /* Views */,
+				E1C84E832D11AD6C00735952 /* ViewModels */,
+				E1C84E962D11AE4000735952 /* Models */,
 			);
 			name = Fin;
 			packageProductDependencies = (
