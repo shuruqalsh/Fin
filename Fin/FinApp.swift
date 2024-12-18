@@ -5,7 +5,7 @@
 //  Created by shuruq alshammari on 16/06/1446 AH.
 //
 
-import SwiftUI
+/*import SwiftUI
 import SwiftData
 
 @main
@@ -25,8 +25,9 @@ struct FinApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
         }
         .modelContainer(sharedModelContainer)
     }
 }
+*/
